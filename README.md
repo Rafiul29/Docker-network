@@ -21,6 +21,9 @@ $ ifconfig
 # Lunch a container on the default network 
 _Every instalation of the Docker Engine automatically include three default networks_
 
+
+
+
 1.bridge
 2.host
 3.none
@@ -28,3 +31,5 @@ _Every instalation of the Docker Engine automatically include three default netw
 $ sudo docker network ls
 ```
 ![image info](./images/network_list.png)
+
+
